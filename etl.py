@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 """
 etl.py
 Simple ETL for MovieLens (small) + OMDb enrichment -> SQLite
@@ -241,7 +241,7 @@ def main():
 
 if __name__ == "__main__":
     main()
-=======
+
 """
 etl.py
 Simple ETL for MovieLens (small) + OMDb enrichment -> SQLite
@@ -484,4 +484,4 @@ def main():
 
 if __name__ == "__main__":
     main()
->>>>>>> 02fbd44c2eaacf83c5bd58b45fd81f5441ace427
+

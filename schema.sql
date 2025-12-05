@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 PRAGMA foreign_keys = ON;
 
 CREATE TABLE IF NOT EXISTS movies (
@@ -35,7 +35,7 @@ CREATE TABLE IF NOT EXISTS ratings (
     PRIMARY KEY (userId, movieId, timestamp),
     FOREIGN KEY (movieId) REFERENCES movies(movieId) ON DELETE CASCADE
 );
-=======
+
 PRAGMA foreign_keys = ON;
 
 CREATE TABLE IF NOT EXISTS movies (
@@ -72,4 +72,3 @@ CREATE TABLE IF NOT EXISTS ratings (
     PRIMARY KEY (userId, movieId, timestamp),
     FOREIGN KEY (movieId) REFERENCES movies(movieId) ON DELETE CASCADE
 );
->>>>>>> 02fbd44c2eaacf83c5bd58b45fd81f5441ace427
