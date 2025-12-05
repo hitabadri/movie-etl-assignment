@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # MovieLens ETL Pipeline with OMDb Enrichment
 
 This project implements a complete **ETL pipeline** using Python, Pandas, Requests, and SQLite.  
@@ -278,4 +278,4 @@ You can run these queries using any SQLite viewer (DB Browser for SQLite, DBeave
 This project demonstrates a complete ETL workflow with data cleaning, enrichment, and SQL analysis.  
 It is ready for submission.
 
->>>>>>> 02fbd44c2eaacf83c5bd58b45fd81f5441ace427
+ 02fbd44c2eaacf83c5bd58b45fd81f5441ace427
